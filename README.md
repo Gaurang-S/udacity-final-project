@@ -2,14 +2,14 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+Bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
-
+Decription of various analytics applied on Bikeshare dataset using python.
 ### Files used
-Include the files used
+Data Files used: Chicago.csv, Washington.csv, New-York-City.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity Nanodegree Programme
+
 
